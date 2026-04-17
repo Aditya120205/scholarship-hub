@@ -2,7 +2,7 @@
 
 **ScholarshipHub** is a web platform designed to simplify the scholarship application journey for students in Maharashtra. Created as a college project, this frontend interface provides essential information on the **MahaDBT (Maharashtra Direct Benefit Transfer) Portal** and helps eligible students navigate various government scholarship schemes, including **Pre-Matric** and **Post-Matric** scholarships.
 
-This project bridges the gap between students and government resources, making it easier for students to understand, apply for, and benefit from educational scholarships.
+This project bridges the gap between students and government resources, making it easier for students to understand, apply for, and benefit from educational scholarships. 
 
 ---
 
